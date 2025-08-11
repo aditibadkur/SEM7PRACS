@@ -1,0 +1,54 @@
+Write about an organization that uses BDA
+
+SYNOPSIS OF MY ORG: NETFLIX
+
+1. Introduction to the Organization
+- Name: Netflix, Inc.
+- Industry: Entertainment / Streaming services
+- Founded: 1997 by Reed Hastings and Marc Randolph
+- Headquarters: Los Gatos, California, USA
+- Services: Streaming TV shows, movies, and producing original content.
+- Scale: Over 270 million subscribers worldwide (as of 2025).
+
+2. How Netflix Uses Big Data
+a. Data Collection
+- Collects viewing history, device type, time spent watching, search queries, 
+location data, and even when a user pauses or rewinds.
+- Tracks engagement with promotional materials (e.g., thumbnails clicked).
+
+b. Data Processing
+- Uses distributed computing frameworks like Apache Spark and cloud storage for 
+large-scale data handling.
+- Processes terabytes of data daily to generate insights.
+
+c. Applications of Big Data at Netflix
+- Personalized Recommendations
+    Big Data algorithms analyze user preferences and viewing patterns to suggest shows and movies.
+    Recommendation engine influences ~80% of watched content.
+
+- Content Creation
+    Uses audience data to decide which original shows or films to produce.
+    Example: House of Cards was greenlit based on Big Data showing demand for political dramas and actor Kevin Spacey.
+
+- Streaming Optimization
+    Predicts network congestion and adjusts video quality dynamically.
+    Uses Big Data to improve load times and reduce buffering.
+
+- Marketing and Customer Retention
+    Analyzes customer churn patterns to design targeted retention campaigns.
+
+3. Benefits Netflix Gains from Big Data
+- Improved customer satisfaction through personalized recommendations.
+- Increased watch time and reduced churn rates.
+- Better ROI on content production.
+- Global scalability without sacrificing streaming quality.
+
+4. Challenges Netflix Faces with Big Data
+- Data privacy concerns under regulations like GDPR.
+- Managing storage and processing costs for petabytes of data.
+- Keeping recommendation algorithms unbiased.
+
+5. Conclusion
+Netflix’s success story is tightly linked to its ability to leverage Big Data for 
+decision-making, personalization, and operational efficiency. It stands as a model for 
+how data-driven strategies can transform an entire industry.
